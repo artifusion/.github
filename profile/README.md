@@ -1,8 +1,8 @@
-# Welcome to ArtiFusion
-
 > This project base is currently in its development, alpha tests are only visible to internal stakeholders
 >
 > After the beta release, documentation and guides will be available soon
+
+# Welcome to ArtiFusion
 
 We are at the forefront of innovation, pioneering the next generation of visual content creation powered by Artificial Intelligence (AI). Our mission is simple yet ambitious: to revolutionize how businesses and creators bring their ideas to life through images, videos, and comics.
 
