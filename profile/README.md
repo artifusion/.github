@@ -11,7 +11,7 @@ With state-of-the-art AI technology, we empower organizations to unlock new leve
 What sets us apart is our commitment to quality and innovation. We leverage the latest advancements in machine learning, computer vision, and natural language processing to deliver unparalleled results. Whether it's generating lifelike images that resonate with your brand's identity, crafting immersive videos that captivate your audience, or designing witty comics that entertain and inspire, we excel at turning ideas into captivating visuals.
 
 ## Useful Resources 📚
-> In development
+> Coming soon
 
 ## Contribution Guidelines 📕
-> In development
+> Coming soon
